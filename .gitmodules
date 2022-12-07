@@ -1,0 +1,6 @@
+[submodule "Auth"]
+	path = Auth
+	url = https://github.com/pratyush3757/MyAuth.git
+[submodule "QtProgressCircle"]
+	path = QtProgressCircle
+	url = https://github.com/mofr/QtProgressCircle.git
